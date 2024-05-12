@@ -41,6 +41,19 @@ During the course of this project, we faced several challenges:
 We've developed an interactive dashboard using PowerBI to present and explore the key discoveries and insights derived from our analysis. 
 The dashboard offers a user-friendly interface for navigating through the data, visualizing trends in disease diagnosis, and comprehending the treatment outcomes for various diseases. 
 Feel free to explore the dashboard for a more engaging and interactive experience.
-- Dashboard Link : 
-  
+- Dashboard Link :
+- ![dash](https://github.com/harshitgupta22/healthcarepatientdataanalysis/assets/166328770/ea41a2f4-8628-431e-b489-012c48b9b646)
 
+## Insights
+- We have taken insights among distrubution of disease of patients.
+- Distribution of symptoms and required tests for that.
+- The patient with the county.
+
+
+## Conclusion
+- Insightful Analysis: Through the utilization of synthetic patient data and supplemental datasets, we were able to conduct a comprehensive analysis of disease diagnosis and treatment outcomes. This analysis provided valuable insights into trends and patterns that can help healthcare providers enhance patient care and treatment strategies. 
+- Data Quality and Integration: Thorough data cleaning and schema design enabled us to effectively manage and integrate disparate datasets. This facilitated a holistic understanding of patient demographics, diagnoses, and treatments.
+- Continuous Improvement: As with any data analysis project, there is always room for improvement. Moving forward, we can explore advanced analytics techniques, such as predictive modeling and machine learning, to uncover deeper insights and enhance decision-making in healthcare settings.
+
+
+Overall, this project demonstrated the value of leveraging data-driven approaches to improve patient care and treatment strategies. By overcoming various challenges and leveraging the power of data visualization and analysis, we can drive positive outcomes in healthcare delivery and patient outcomes.
