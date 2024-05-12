@@ -13,7 +13,7 @@
 This project endeavors to scrutinize trends in disease diagnosis, medications for patient, tests and treatment outcomes and present recommendations to enhance the patient's medication. The primary dataset for this analysis was obtained through the datasets.
 
 **Data Collection:**
-- Description: The data was collected from kaggle that provides information about patients, disease and severity, tests and medications.
+- Description: The data was collected from Synthea website that provides information about patients, disease and severity, tests and medications.
 - Process: All available data within the specified date range was successfully retrieved.
 - Applications : Jupyter notebook(for python code), My SQL(for connecting dataset and cleaning process)
 - ![IMG_20240512_102731](https://github.com/harshitgupta22/healthcarepatientdataanalysis/assets/166328770/1b499d15-c4c8-47d2-b8f8-08c257d8aa8d)
