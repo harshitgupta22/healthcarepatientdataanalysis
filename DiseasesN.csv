@@ -1,0 +1,832 @@
+PATIENT,TYPE,CATEGORY,DESCRIPTION1,SEVERITY1
+57f4670b-b6b0-df0d-0122-5d9f68e39f63,allergy,environment,Sneezing,MILD
+72c507c2-aca4-86f0-8a7d-55eadddba357,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+72c507c2-aca4-86f0-8a7d-55eadddba357,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+72c507c2-aca4-86f0-8a7d-55eadddba357,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+72c507c2-aca4-86f0-8a7d-55eadddba357,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+72c507c2-aca4-86f0-8a7d-55eadddba357,allergy,food,Anaphylaxis (disorder),SEVERE
+42576db0-7327-b3e1-e86c-56eca568790c,allergy,food,Anaphylaxis (disorder),SEVERE
+80e6d023-9ecc-c9b1-80bf-c0683dbdf5e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+80e6d023-9ecc-c9b1-80bf-c0683dbdf5e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+80e6d023-9ecc-c9b1-80bf-c0683dbdf5e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+80e6d023-9ecc-c9b1-80bf-c0683dbdf5e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+80e6d023-9ecc-c9b1-80bf-c0683dbdf5e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+80e6d023-9ecc-c9b1-80bf-c0683dbdf5e9,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+80e6d023-9ecc-c9b1-80bf-c0683dbdf5e9,allergy,food,Dyspnea (finding),MODERATE
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,environment,Wheal (finding),MILD
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,environment,Nose running,MILD
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,food,Wheal (finding),MODERATE
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,food,Dyspnea (finding),MODERATE
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,food,Anaphylaxis (disorder),SEVERE
+b0d24bf9-db74-4468-631c-2da0717614c0,allergy,food,Anaphylaxis (disorder),SEVERE
+fee8160c-4435-ec67-dbcc-0be82e84aae1,allergy,environment,Allergic skin rash,MILD
+fee8160c-4435-ec67-dbcc-0be82e84aae1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fee8160c-4435-ec67-dbcc-0be82e84aae1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fee8160c-4435-ec67-dbcc-0be82e84aae1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fee8160c-4435-ec67-dbcc-0be82e84aae1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fee8160c-4435-ec67-dbcc-0be82e84aae1,allergy,food,Allergic angioedema (disorder),MODERATE
+fee8160c-4435-ec67-dbcc-0be82e84aae1,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,environment,Allergic skin rash,MILD
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,food,Finding of vomiting (finding),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,food,Allergic angioedema (disorder),MODERATE
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,food,Eruption of skin (disorder),MILD
+9030247b-25c6-1dff-7cb8-352f8aee565f,allergy,food,Anaphylaxis (disorder),SEVERE
+8a873b51-13bd-f2cf-4f19-371008e757ad,allergy,environment,Allergic angioedema (disorder),MODERATE
+8a873b51-13bd-f2cf-4f19-371008e757ad,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+8a873b51-13bd-f2cf-4f19-371008e757ad,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+8a873b51-13bd-f2cf-4f19-371008e757ad,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+8a873b51-13bd-f2cf-4f19-371008e757ad,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+8a873b51-13bd-f2cf-4f19-371008e757ad,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+8a873b51-13bd-f2cf-4f19-371008e757ad,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+8a873b51-13bd-f2cf-4f19-371008e757ad,allergy,food,Wheal (finding),MODERATE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,environment,Eruption of skin (disorder),MODERATE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,medication,Abdominal pain (finding),MODERATE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,food,Anaphylaxis (disorder),SEVERE
+1c7e7ef4-d160-fca9-4f7b-c39d9bac57e9,allergy,food,Eruption of skin (disorder),MILD
+f85a399d-10a8-4e16-b946-9f23ddd2f287,allergy,medication,Abdominal pain (finding),MODERATE
+9b3b4c5c-3955-c128-ed86-5afd23f400e7,allergy,food,Wheal (finding),MILD
+11cfd2e3-87d1-af5b-8416-7ef563dea303,allergy,medication,Eruption of skin (disorder),MODERATE
+7a3d4e31-f5ad-f198-b415-b5e521b16b3a,allergy,medication,Wheal (finding),MODERATE
+41a3b92a-0c96-df8f-bb40-f050c076b341,allergy,environment,Wheal (finding),MILD
+41a3b92a-0c96-df8f-bb40-f050c076b341,allergy,environment,Wheezing,MILD
+41a3b92a-0c96-df8f-bb40-f050c076b341,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+41a3b92a-0c96-df8f-bb40-f050c076b341,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+41a3b92a-0c96-df8f-bb40-f050c076b341,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+41a3b92a-0c96-df8f-bb40-f050c076b341,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+41a3b92a-0c96-df8f-bb40-f050c076b341,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+41a3b92a-0c96-df8f-bb40-f050c076b341,allergy,food,Diarrhea (finding),MILD
+e019117f-685f-ca5f-79dd-3c741cde54d2,allergy,medication,Allergic angioedema (disorder),MODERATE
+e019117f-685f-ca5f-79dd-3c741cde54d2,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+c6e53b84-4de3-1e64-cf69-edcdfa64d956,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c6e53b84-4de3-1e64-cf69-edcdfa64d956,allergy,medication,Wheal (finding),MODERATE
+c6e53b84-4de3-1e64-cf69-edcdfa64d956,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+f9b64d0c-8088-94ac-3c62-3beaedb7d224,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+f9b64d0c-8088-94ac-3c62-3beaedb7d224,allergy,environment,Allergic skin rash,MILD
+f9b64d0c-8088-94ac-3c62-3beaedb7d224,allergy,environment,Eruption of skin (disorder),MILD
+f9b64d0c-8088-94ac-3c62-3beaedb7d224,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+f9b64d0c-8088-94ac-3c62-3beaedb7d224,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+f9b64d0c-8088-94ac-3c62-3beaedb7d224,allergy,food,Eruption of skin (disorder),MILD
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,environment,Allergic skin rash,MILD
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,medication,Wheal (finding),MODERATE
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,food,Anaphylaxis (disorder),SEVERE
+78b05d8d-7d9d-7f3e-5e8e-30f14984d9f1,allergy,food,Wheezing (finding),MILD
+db52f148-747d-2661-d7cd-21d19b9721ce,allergy,environment,Dyspnea (finding),MODERATE
+db52f148-747d-2661-d7cd-21d19b9721ce,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+db52f148-747d-2661-d7cd-21d19b9721ce,allergy,environment,Sneezing,MILD
+db52f148-747d-2661-d7cd-21d19b9721ce,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+db52f148-747d-2661-d7cd-21d19b9721ce,allergy,environment,Wheal (finding),MILD
+db52f148-747d-2661-d7cd-21d19b9721ce,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+db52f148-747d-2661-d7cd-21d19b9721ce,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+db52f148-747d-2661-d7cd-21d19b9721ce,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+b6220980-6acf-5d28-094d-62b0005d2f8c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b6220980-6acf-5d28-094d-62b0005d2f8c,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+b6220980-6acf-5d28-094d-62b0005d2f8c,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+c66f1010-4661-c8de-3128-f665b435bc1d,allergy,medication,Wheal (finding),MILD
+c66f1010-4661-c8de-3128-f665b435bc1d,allergy,food,Anaphylaxis (disorder),SEVERE
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,environment,Wheal (finding),MILD
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,environment,Wheezing,MILD
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,food,Allergic angioedema (disorder),MODERATE
+101a5c35-c93a-1d29-faf0-1a2e058a06c5,allergy,food,Dyspnea (finding),MODERATE
+bbd44d19-296f-11fc-ff31-2081639c0138,allergy,environment,Allergic skin rash,MILD
+bbd44d19-296f-11fc-ff31-2081639c0138,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bbd44d19-296f-11fc-ff31-2081639c0138,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bbd44d19-296f-11fc-ff31-2081639c0138,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bbd44d19-296f-11fc-ff31-2081639c0138,allergy,food,Itching (finding),MILD
+bbd44d19-296f-11fc-ff31-2081639c0138,allergy,food,Dyspnea (finding),MODERATE
+c748b771-04c9-2321-f922-e058d8326b4e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c748b771-04c9-2321-f922-e058d8326b4e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c748b771-04c9-2321-f922-e058d8326b4e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c748b771-04c9-2321-f922-e058d8326b4e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c748b771-04c9-2321-f922-e058d8326b4e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c748b771-04c9-2321-f922-e058d8326b4e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c748b771-04c9-2321-f922-e058d8326b4e,allergy,food,Wheal (finding),MILD
+c748b771-04c9-2321-f922-e058d8326b4e,allergy,food,Allergic angioedema (disorder),MODERATE
+d9e22ef8-00c6-3932-508b-c69c1d567a1c,allergy,medication,Wheal (finding),MODERATE
+d9e22ef8-00c6-3932-508b-c69c1d567a1c,allergy,food,Allergic angioedema (disorder),MODERATE
+e0a9e2ba-7c6b-c438-19d8-72763dc97e28,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1591ffec-e1b8-3c2c-f241-d2edaf7c6044,allergy,food,Anaphylaxis (disorder),SEVERE
+3f1512f5-9e19-ccb7-32e7-6d9b42d9e824,allergy,environment,Dyspnea (finding),MODERATE
+3f1512f5-9e19-ccb7-32e7-6d9b42d9e824,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3f1512f5-9e19-ccb7-32e7-6d9b42d9e824,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3f1512f5-9e19-ccb7-32e7-6d9b42d9e824,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3f1512f5-9e19-ccb7-32e7-6d9b42d9e824,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3f1512f5-9e19-ccb7-32e7-6d9b42d9e824,allergy,food,Dyspnea (finding),MODERATE
+3f1512f5-9e19-ccb7-32e7-6d9b42d9e824,allergy,food,Allergic angioedema (disorder),MODERATE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,environment,Allergic angioedema (disorder),MODERATE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,food,Allergic angioedema (disorder),MODERATE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,food,Anaphylaxis (disorder),SEVERE
+97b5f256-17da-8307-5e13-8786e4899ca0,allergy,food,Allergic angioedema (disorder),MODERATE
+60f6ef2f-3fff-5c3f-60e3-74cfc472d5d1,allergy,environment,Rhinoconjunctivitis (disorder),MILD
+60f6ef2f-3fff-5c3f-60e3-74cfc472d5d1,allergy,environment,Nose running,MILD
+60f6ef2f-3fff-5c3f-60e3-74cfc472d5d1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+60f6ef2f-3fff-5c3f-60e3-74cfc472d5d1,allergy,environment,Eruption of skin (disorder),MILD
+60f6ef2f-3fff-5c3f-60e3-74cfc472d5d1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+60f6ef2f-3fff-5c3f-60e3-74cfc472d5d1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+60f6ef2f-3fff-5c3f-60e3-74cfc472d5d1,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+60f6ef2f-3fff-5c3f-60e3-74cfc472d5d1,allergy,medication,Eruption of skin (disorder),MILD
+cf0ba3e6-9760-511f-1f5c-b6485c8a011f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+75da7c09-473d-5df6-f90f-6da6f3abc8dc,allergy,medication,Allergic angioedema (disorder),MILD
+75da7c09-473d-5df6-f90f-6da6f3abc8dc,allergy,food,Wheal (finding),MODERATE
+c3f6ca2c-3ae3-47b5-8630-7ebd137faeac,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c3f6ca2c-3ae3-47b5-8630-7ebd137faeac,allergy,food,Anaphylaxis (disorder),SEVERE
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,environment,Wheal (finding),MILD
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,environment,Sneezing,MILD
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,environment,Eruption of skin (disorder),MILD
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,food,Anaphylaxis (disorder),SEVERE
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+00d53fb9-b360-3cd3-833b-1245f9433380,allergy,food,Allergic angioedema (disorder),MODERATE
+2b853046-8297-08c2-7562-ce2c6dbfdc03,allergy,food,Allergic angioedema (disorder),MODERATE
+4b47aa02-dc92-3a5a-361b-c22fbf828d6d,allergy,environment,Sneezing,MILD
+4b47aa02-dc92-3a5a-361b-c22fbf828d6d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4b47aa02-dc92-3a5a-361b-c22fbf828d6d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4b47aa02-dc92-3a5a-361b-c22fbf828d6d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4b47aa02-dc92-3a5a-361b-c22fbf828d6d,allergy,food,Anaphylaxis (disorder),SEVERE
+4b47aa02-dc92-3a5a-361b-c22fbf828d6d,allergy,food,Allergic angioedema (disorder),MODERATE
+4b47aa02-dc92-3a5a-361b-c22fbf828d6d,allergy,food,Wheal (finding),MODERATE
+260996f9-8f01-1e26-8a34-1053b71cd20e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+260996f9-8f01-1e26-8a34-1053b71cd20e,allergy,food,Allergic angioedema (disorder),MODERATE
+a2029f71-e86f-bc05-12f4-57c331f52e51,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2029f71-e86f-bc05-12f4-57c331f52e51,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2029f71-e86f-bc05-12f4-57c331f52e51,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2029f71-e86f-bc05-12f4-57c331f52e51,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2029f71-e86f-bc05-12f4-57c331f52e51,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2029f71-e86f-bc05-12f4-57c331f52e51,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+a2029f71-e86f-bc05-12f4-57c331f52e51,allergy,food,Anaphylaxis (disorder),SEVERE
+a2029f71-e86f-bc05-12f4-57c331f52e51,allergy,food,Allergic angioedema (disorder),MODERATE
+b50e115e-7848-9aa9-b50d-1b9adfa72f85,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b50e115e-7848-9aa9-b50d-1b9adfa72f85,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+b50e115e-7848-9aa9-b50d-1b9adfa72f85,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+0d3dc6d0-6ca8-db3a-6c79-80ccf4bed656,allergy,environment,Nose running,MILD
+0d3dc6d0-6ca8-db3a-6c79-80ccf4bed656,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0d3dc6d0-6ca8-db3a-6c79-80ccf4bed656,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0d3dc6d0-6ca8-db3a-6c79-80ccf4bed656,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0d3dc6d0-6ca8-db3a-6c79-80ccf4bed656,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0d3dc6d0-6ca8-db3a-6c79-80ccf4bed656,intolerance,medication,Cough (finding),MODERATE
+0d3dc6d0-6ca8-db3a-6c79-80ccf4bed656,allergy,medication,Abdominal pain (finding),MODERATE
+0d3dc6d0-6ca8-db3a-6c79-80ccf4bed656,allergy,food,Anaphylaxis (disorder),SEVERE
+a2dc42ce-5211-5c36-8c52-77447f56ced4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2dc42ce-5211-5c36-8c52-77447f56ced4,allergy,medication,Wheal (finding),MODERATE
+a2dc42ce-5211-5c36-8c52-77447f56ced4,allergy,food,Anaphylaxis (disorder),SEVERE
+3186c58f-94c9-8223-effe-33b414e69ef9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+933adda0-e028-1913-9340-23e412682c20,allergy,environment,Allergic skin rash,MILD
+933adda0-e028-1913-9340-23e412682c20,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+933adda0-e028-1913-9340-23e412682c20,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+933adda0-e028-1913-9340-23e412682c20,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+933adda0-e028-1913-9340-23e412682c20,allergy,medication,Abdominal pain (finding),MODERATE
+933adda0-e028-1913-9340-23e412682c20,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+f8a23796-e88e-f17e-30c8-2e8040f1c3bd,allergy,environment,Sneezing,MILD
+f8a23796-e88e-f17e-30c8-2e8040f1c3bd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+f8a23796-e88e-f17e-30c8-2e8040f1c3bd,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+a29c4857-6f59-7d6c-b60a-376366e5b910,allergy,food,Wheal (finding),MODERATE
+400af31a-221e-fae1-86bf-e125d76afaa5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+400af31a-221e-fae1-86bf-e125d76afaa5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+400af31a-221e-fae1-86bf-e125d76afaa5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+400af31a-221e-fae1-86bf-e125d76afaa5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+400af31a-221e-fae1-86bf-e125d76afaa5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+400af31a-221e-fae1-86bf-e125d76afaa5,allergy,food,Anaphylaxis (disorder),SEVERE
+009e61d0-b348-55d8-4324-abacd2a87bc1,intolerance,medication,Cough (finding),MODERATE
+009e61d0-b348-55d8-4324-abacd2a87bc1,allergy,medication,Itching (finding),MODERATE
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,environment,Rhinoconjunctivitis (disorder),MILD
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,environment,Allergic skin rash,MILD
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+ad08c3a9-b357-7dcd-5d93-2e7e9b674003,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+711d6dc2-a5df-3d8b-83a9-03d84c611332,allergy,food,Anaphylaxis (disorder),SEVERE
+2cf24011-f595-8d00-9501-c1b0886c9d24,allergy,food,Allergic angioedema (disorder),MODERATE
+4e02710d-4a35-a4fe-1fe5-91cb15271777,allergy,environment,Sneezing,MILD
+4e02710d-4a35-a4fe-1fe5-91cb15271777,allergy,medication,Wheal (finding),MODERATE
+4e02710d-4a35-a4fe-1fe5-91cb15271777,allergy,medication,Anaphylaxis (disorder),SEVERE
+4e02710d-4a35-a4fe-1fe5-91cb15271777,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+e44c6db3-ee38-b47e-c844-822d30ba1947,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e44c6db3-ee38-b47e-c844-822d30ba1947,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e44c6db3-ee38-b47e-c844-822d30ba1947,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e44c6db3-ee38-b47e-c844-822d30ba1947,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e44c6db3-ee38-b47e-c844-822d30ba1947,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e44c6db3-ee38-b47e-c844-822d30ba1947,allergy,food,Wheal (finding),MODERATE
+d591d019-07ed-a49f-430e-1e0f8d76351e,allergy,food,Finding of vomiting (finding),MILD
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,medication,Wheal (finding),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,food,Finding of vomiting (finding),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+fe0e284c-b1fc-128a-399b-ceb139254804,allergy,food,Diarrhea (finding),MILD
+67d7f259-368d-c01f-63c5-89bef1834556,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+67d7f259-368d-c01f-63c5-89bef1834556,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+67d7f259-368d-c01f-63c5-89bef1834556,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+67d7f259-368d-c01f-63c5-89bef1834556,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+67d7f259-368d-c01f-63c5-89bef1834556,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+f6dcccd1-097d-b608-54ed-cdbf067717e3,intolerance,medication,Cough (finding),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,intolerance,medication,Cough (finding),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,food,Wheal (finding),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,food,Anaphylaxis (disorder),SEVERE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,food,Dyspnea (finding),MODERATE
+fbf8944c-a318-fcc3-1619-6acaeb1faa83,allergy,food,Anaphylaxis (disorder),SEVERE
+311e057c-f02d-06f7-6eac-c8bfd16db6e7,allergy,environment,Sneezing,MILD
+311e057c-f02d-06f7-6eac-c8bfd16db6e7,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+311e057c-f02d-06f7-6eac-c8bfd16db6e7,allergy,environment,Eruption of skin (disorder),MILD
+311e057c-f02d-06f7-6eac-c8bfd16db6e7,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+311e057c-f02d-06f7-6eac-c8bfd16db6e7,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+311e057c-f02d-06f7-6eac-c8bfd16db6e7,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,food,Eruption of skin (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,food,Allergic angioedema (disorder),MODERATE
+18eb0546-0341-0f7a-da17-63bae8614478,allergy,food,Dyspnea (finding),MODERATE
+9343fc82-fe1f-1c5a-0c6a-7bd5b5cce65b,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+c7a96e69-7c01-0ecc-0bd7-bea42ff53b06,allergy,medication,Abdominal pain (finding),MODERATE
+c7a96e69-7c01-0ecc-0bd7-bea42ff53b06,allergy,food,Anaphylaxis (disorder),SEVERE
+13b61cd6-1c27-9132-88e0-60e9c66ef5bb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+13b61cd6-1c27-9132-88e0-60e9c66ef5bb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+13b61cd6-1c27-9132-88e0-60e9c66ef5bb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+13b61cd6-1c27-9132-88e0-60e9c66ef5bb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+13b61cd6-1c27-9132-88e0-60e9c66ef5bb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+13b61cd6-1c27-9132-88e0-60e9c66ef5bb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+13b61cd6-1c27-9132-88e0-60e9c66ef5bb,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+13b61cd6-1c27-9132-88e0-60e9c66ef5bb,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,environment,Allergic angioedema (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,food,Wheal (finding),MILD
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,food,Diarrhea (finding),MILD
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,food,Allergic angioedema (disorder),MODERATE
+b2a0428d-2cfa-3b80-5a72-ac21f7bbab77,allergy,food,Dyspnea (finding),MODERATE
+248a7416-658f-0703-59c6-a5aa8799753f,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+dcf1a7c3-684f-9b1a-e192-02ba88b8d152,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+dcf1a7c3-684f-9b1a-e192-02ba88b8d152,allergy,food,Cough (finding),MILD
+25ea71bd-390f-f73c-c384-b17a6da5e438,allergy,environment,Allergic skin rash,MILD
+25ea71bd-390f-f73c-c384-b17a6da5e438,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+25ea71bd-390f-f73c-c384-b17a6da5e438,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+25ea71bd-390f-f73c-c384-b17a6da5e438,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+25ea71bd-390f-f73c-c384-b17a6da5e438,allergy,food,Anaphylaxis (disorder),SEVERE
+c2fa27ba-38a5-2841-75b7-5fc87c0fe5dd,allergy,environment,Wheal (finding),MILD
+c2fa27ba-38a5-2841-75b7-5fc87c0fe5dd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c2fa27ba-38a5-2841-75b7-5fc87c0fe5dd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c2fa27ba-38a5-2841-75b7-5fc87c0fe5dd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c2fa27ba-38a5-2841-75b7-5fc87c0fe5dd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c2fa27ba-38a5-2841-75b7-5fc87c0fe5dd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c2fa27ba-38a5-2841-75b7-5fc87c0fe5dd,allergy,food,Diarrhea (finding),MILD
+c2fa27ba-38a5-2841-75b7-5fc87c0fe5dd,allergy,food,Anaphylaxis (disorder),SEVERE
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,environment,Anaphylaxis (disorder),SEVERE
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,environment,Allergic skin rash,MILD
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,medication,Wheal (finding),MODERATE
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,food,Anaphylaxis (disorder),SEVERE
+4425ede7-fc14-a112-39e0-248a60b02539,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+6af0d374-a2a7-1c23-bbc4-8c82d8ef7246,allergy,environment,Nose running,MILD
+6af0d374-a2a7-1c23-bbc4-8c82d8ef7246,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6af0d374-a2a7-1c23-bbc4-8c82d8ef7246,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6af0d374-a2a7-1c23-bbc4-8c82d8ef7246,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6af0d374-a2a7-1c23-bbc4-8c82d8ef7246,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6af0d374-a2a7-1c23-bbc4-8c82d8ef7246,allergy,medication,Abdominal pain (finding),MODERATE
+6af0d374-a2a7-1c23-bbc4-8c82d8ef7246,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+a885bdb0-e103-587f-b2ed-225580737898,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+928431e0-5a0c-8633-8f96-a96bb33aadf6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+928431e0-5a0c-8633-8f96-a96bb33aadf6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+928431e0-5a0c-8633-8f96-a96bb33aadf6,allergy,environment,Eruption of skin (disorder),MILD
+928431e0-5a0c-8633-8f96-a96bb33aadf6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+928431e0-5a0c-8633-8f96-a96bb33aadf6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+928431e0-5a0c-8633-8f96-a96bb33aadf6,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+928431e0-5a0c-8633-8f96-a96bb33aadf6,allergy,food,Finding of vomiting (finding),MODERATE
+928431e0-5a0c-8633-8f96-a96bb33aadf6,allergy,food,Allergic angioedema (disorder),MODERATE
+92a75b09-1acc-2ba7-73ab-28bc6551dc62,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+92a75b09-1acc-2ba7-73ab-28bc6551dc62,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+92a75b09-1acc-2ba7-73ab-28bc6551dc62,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+92a75b09-1acc-2ba7-73ab-28bc6551dc62,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+92a75b09-1acc-2ba7-73ab-28bc6551dc62,allergy,food,Allergic angioedema (disorder),MODERATE
+92a75b09-1acc-2ba7-73ab-28bc6551dc62,allergy,food,Dyspnea (finding),MODERATE
+ddb00520-0f42-83a6-433b-c664b6f1cc28,allergy,food,Anaphylaxis (disorder),SEVERE
+1dbb5093-e40e-b05a-8d1c-29365564161c,intolerance,medication,Cough (finding),MODERATE
+1dbb5093-e40e-b05a-8d1c-29365564161c,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+12525a18-d8a1-4442-2656-bcdef411d29a,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+12525a18-d8a1-4442-2656-bcdef411d29a,allergy,medication,Eruption of skin (disorder),MILD
+12525a18-d8a1-4442-2656-bcdef411d29a,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+12525a18-d8a1-4442-2656-bcdef411d29a,allergy,food,Anaphylaxis (disorder),SEVERE
+af811ea8-6d54-5ae5-dc78-8240177cff8d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+af811ea8-6d54-5ae5-dc78-8240177cff8d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+af811ea8-6d54-5ae5-dc78-8240177cff8d,allergy,environment,Dyspnea (finding),MILD
+af811ea8-6d54-5ae5-dc78-8240177cff8d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+af811ea8-6d54-5ae5-dc78-8240177cff8d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+af811ea8-6d54-5ae5-dc78-8240177cff8d,allergy,medication,Wheal (finding),MODERATE
+af811ea8-6d54-5ae5-dc78-8240177cff8d,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+af811ea8-6d54-5ae5-dc78-8240177cff8d,allergy,food,Anaphylaxis (disorder),SEVERE
+0b62e1f2-268f-4d84-4408-025a601f75cb,allergy,food,Dyspnea (finding),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,environment,Allergic skin rash,MILD
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,medication,Abdominal pain (finding),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,food,Wheal (finding),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,food,Eruption of skin (disorder),MODERATE
+617a1432-d490-0d11-6951-9af4ad85f701,allergy,food,Anaphylaxis (disorder),SEVERE
+a5010070-0d8c-d0b7-9951-1376c7e7967a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a5010070-0d8c-d0b7-9951-1376c7e7967a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a5010070-0d8c-d0b7-9951-1376c7e7967a,allergy,environment,Eruption of skin (disorder),MILD
+a5010070-0d8c-d0b7-9951-1376c7e7967a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a5010070-0d8c-d0b7-9951-1376c7e7967a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a5010070-0d8c-d0b7-9951-1376c7e7967a,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+a5010070-0d8c-d0b7-9951-1376c7e7967a,allergy,food,Anaphylaxis (disorder),SEVERE
+a5010070-0d8c-d0b7-9951-1376c7e7967a,allergy,food,Dyspnea (finding),MODERATE
+fa637158-cf2a-854f-c073-2f87a9c479e5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fa637158-cf2a-854f-c073-2f87a9c479e5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fa637158-cf2a-854f-c073-2f87a9c479e5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fa637158-cf2a-854f-c073-2f87a9c479e5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fa637158-cf2a-854f-c073-2f87a9c479e5,allergy,food,Eruption of skin (disorder),MILD
+fa637158-cf2a-854f-c073-2f87a9c479e5,allergy,food,Anaphylaxis (disorder),SEVERE
+306f059f-e8b5-5fea-bc57-a81e68899b55,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+e398ac3f-f8e0-7adf-c2ea-43cbc8147f32,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,environment,Wheal (finding),MILD
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,environment,Nose running,MILD
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+da1191e7-479b-14dc-a91f-32c0b8943efa,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+84f0d615-5912-db3b-f3d9-5332ccf5e7ac,allergy,environment,Eruption of skin (disorder),MODERATE
+84f0d615-5912-db3b-f3d9-5332ccf5e7ac,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+84f0d615-5912-db3b-f3d9-5332ccf5e7ac,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+84f0d615-5912-db3b-f3d9-5332ccf5e7ac,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+84f0d615-5912-db3b-f3d9-5332ccf5e7ac,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+84f0d615-5912-db3b-f3d9-5332ccf5e7ac,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+84f0d615-5912-db3b-f3d9-5332ccf5e7ac,allergy,medication,Wheal (finding),MODERATE
+84f0d615-5912-db3b-f3d9-5332ccf5e7ac,allergy,food,Allergic angioedema (disorder),MODERATE
+38214886-59b3-fb71-4cdd-b91979f45e49,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+38214886-59b3-fb71-4cdd-b91979f45e49,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+38214886-59b3-fb71-4cdd-b91979f45e49,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+38214886-59b3-fb71-4cdd-b91979f45e49,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+38214886-59b3-fb71-4cdd-b91979f45e49,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+38214886-59b3-fb71-4cdd-b91979f45e49,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+38214886-59b3-fb71-4cdd-b91979f45e49,allergy,food,Wheal (finding),MODERATE
+38214886-59b3-fb71-4cdd-b91979f45e49,allergy,food,Allergic angioedema (disorder),MODERATE
+f4957e86-a56e-97bf-145f-45ff5b7aeace,allergy,environment,Nose running,MILD
+f4957e86-a56e-97bf-145f-45ff5b7aeace,allergy,food,Allergic angioedema (disorder),MODERATE
+cfd876d3-b2b7-4121-2a11-751157903900,allergy,environment,Nose running,MILD
+cfd876d3-b2b7-4121-2a11-751157903900,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+0e044555-0a28-c3ab-38e5-ccfda5a1bbf9,allergy,environment,Rhinoconjunctivitis (disorder),MILD
+0e044555-0a28-c3ab-38e5-ccfda5a1bbf9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0e044555-0a28-c3ab-38e5-ccfda5a1bbf9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0e044555-0a28-c3ab-38e5-ccfda5a1bbf9,allergy,environment,Cough (finding),MODERATE
+0e044555-0a28-c3ab-38e5-ccfda5a1bbf9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0e044555-0a28-c3ab-38e5-ccfda5a1bbf9,allergy,medication,Abdominal pain (finding),MODERATE
+d7a16175-5a4e-f8b0-c161-4c6c465e0898,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d7a16175-5a4e-f8b0-c161-4c6c465e0898,allergy,food,Finding of vomiting (finding),MODERATE
+22fd4a38-3a13-661a-ff47-8b45bd5ec96a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+22fd4a38-3a13-661a-ff47-8b45bd5ec96a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+22fd4a38-3a13-661a-ff47-8b45bd5ec96a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+22fd4a38-3a13-661a-ff47-8b45bd5ec96a,allergy,environment,Eruption of skin (disorder),MILD
+22fd4a38-3a13-661a-ff47-8b45bd5ec96a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+22fd4a38-3a13-661a-ff47-8b45bd5ec96a,allergy,food,Anaphylaxis (disorder),SEVERE
+2c67d919-5117-6a0b-e9cb-fc50e10e5ff4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2c67d919-5117-6a0b-e9cb-fc50e10e5ff4,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+19a5e7ca-cfa6-5e99-7e1c-986f486ac073,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a919f061-984f-1d8c-e9b3-9c098a1f6fca,allergy,environment,Nose running,MILD
+a919f061-984f-1d8c-e9b3-9c098a1f6fca,allergy,medication,Wheal (finding),MILD
+a919f061-984f-1d8c-e9b3-9c098a1f6fca,allergy,food,Dyspnea (finding),MODERATE
+da9ea4d3-d4d4-6160-8610-0d7e380b79a8,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+a046867a-0c5d-3d5d-f77f-5edc6d24eda9,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+a046867a-0c5d-3d5d-f77f-5edc6d24eda9,allergy,food,Allergic angioedema (disorder),MODERATE
+c84b48e4-f774-b996-224a-eca37455176e,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+c84b48e4-f774-b996-224a-eca37455176e,allergy,medication,Abdominal pain (finding),MODERATE
+c84b48e4-f774-b996-224a-eca37455176e,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+bb3520dd-e16a-87aa-3207-b6085c53ebb6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bb3520dd-e16a-87aa-3207-b6085c53ebb6,allergy,environment,Allergic skin rash,MILD
+bb3520dd-e16a-87aa-3207-b6085c53ebb6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bb3520dd-e16a-87aa-3207-b6085c53ebb6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bb3520dd-e16a-87aa-3207-b6085c53ebb6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bb3520dd-e16a-87aa-3207-b6085c53ebb6,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+bb3520dd-e16a-87aa-3207-b6085c53ebb6,allergy,food,Wheal (finding),MILD
+bb3520dd-e16a-87aa-3207-b6085c53ebb6,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+e9e61cd4-6255-06b6-4239-fd37e8db369f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e9e61cd4-6255-06b6-4239-fd37e8db369f,allergy,food,Anaphylaxis (disorder),SEVERE
+44b09eed-852c-7ee0-43ab-c7155268e7ae,allergy,medication,Wheal (finding),MILD
+44b09eed-852c-7ee0-43ab-c7155268e7ae,allergy,food,Wheal (finding),MODERATE
+209b43b1-0537-e0b6-f4bd-a83eaec22d92,allergy,food,Allergic angioedema (disorder),MODERATE
+155f4b84-ce5c-4d7f-c1cd-e4eef323138d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+155f4b84-ce5c-4d7f-c1cd-e4eef323138d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+155f4b84-ce5c-4d7f-c1cd-e4eef323138d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+155f4b84-ce5c-4d7f-c1cd-e4eef323138d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+155f4b84-ce5c-4d7f-c1cd-e4eef323138d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+155f4b84-ce5c-4d7f-c1cd-e4eef323138d,allergy,food,Allergic angioedema (disorder),MODERATE
+155f4b84-ce5c-4d7f-c1cd-e4eef323138d,allergy,food,Allergic angioedema (disorder),MODERATE
+74916465-9010-7219-0f8a-5ba784ebbd7f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+74916465-9010-7219-0f8a-5ba784ebbd7f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+74916465-9010-7219-0f8a-5ba784ebbd7f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+74916465-9010-7219-0f8a-5ba784ebbd7f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+74916465-9010-7219-0f8a-5ba784ebbd7f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+74916465-9010-7219-0f8a-5ba784ebbd7f,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+74916465-9010-7219-0f8a-5ba784ebbd7f,allergy,medication,Abdominal pain (finding),MODERATE
+74916465-9010-7219-0f8a-5ba784ebbd7f,allergy,food,Allergic angioedema (disorder),MODERATE
+3c196dc9-6513-cfef-9a63-8795423a873a,allergy,environment,Nose running,MILD
+3c196dc9-6513-cfef-9a63-8795423a873a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3c196dc9-6513-cfef-9a63-8795423a873a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3c196dc9-6513-cfef-9a63-8795423a873a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3c196dc9-6513-cfef-9a63-8795423a873a,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+3c196dc9-6513-cfef-9a63-8795423a873a,allergy,food,Wheal (finding),MODERATE
+3c196dc9-6513-cfef-9a63-8795423a873a,allergy,food,Allergic angioedema (disorder),MODERATE
+3c196dc9-6513-cfef-9a63-8795423a873a,allergy,food,Allergic angioedema (disorder),MODERATE
+2cd8a544-e791-4e16-ae3f-ec4be936817c,allergy,environment,Eruption of skin (disorder),MODERATE
+2cd8a544-e791-4e16-ae3f-ec4be936817c,allergy,environment,Wheezing,MILD
+2cd8a544-e791-4e16-ae3f-ec4be936817c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2cd8a544-e791-4e16-ae3f-ec4be936817c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2cd8a544-e791-4e16-ae3f-ec4be936817c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2cd8a544-e791-4e16-ae3f-ec4be936817c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2cd8a544-e791-4e16-ae3f-ec4be936817c,allergy,food,Wheal (finding),MODERATE
+2cd8a544-e791-4e16-ae3f-ec4be936817c,allergy,food,Anaphylaxis (disorder),SEVERE
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,environment,Wheal (finding),MILD
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,environment,Wheezing,MILD
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,food,Anaphylaxis (disorder),SEVERE
+ce5e583b-2550-b3eb-cd09-834ccb2364f9,allergy,food,Allergic angioedema (disorder),MODERATE
+b1e844a9-373a-db2e-fc22-06df592cbcfb,allergy,environment,Wheezing,MILD
+b1e844a9-373a-db2e-fc22-06df592cbcfb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b1e844a9-373a-db2e-fc22-06df592cbcfb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b1e844a9-373a-db2e-fc22-06df592cbcfb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b1e844a9-373a-db2e-fc22-06df592cbcfb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b1e844a9-373a-db2e-fc22-06df592cbcfb,allergy,food,Anaphylaxis (disorder),SEVERE
+cab8143c-6af3-2024-5ebb-953ea12443f2,intolerance,medication,Dyspnea (finding),MODERATE
+be64d317-f3ed-1e22-49b8-85fe582fbd9b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+be64d317-f3ed-1e22-49b8-85fe582fbd9b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+be64d317-f3ed-1e22-49b8-85fe582fbd9b,allergy,environment,Cough (finding),MODERATE
+be64d317-f3ed-1e22-49b8-85fe582fbd9b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+be64d317-f3ed-1e22-49b8-85fe582fbd9b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+be64d317-f3ed-1e22-49b8-85fe582fbd9b,allergy,food,Finding of vomiting (finding),MODERATE
+be64d317-f3ed-1e22-49b8-85fe582fbd9b,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+be64d317-f3ed-1e22-49b8-85fe582fbd9b,allergy,food,Anaphylaxis (disorder),SEVERE
+d47bcc44-c0c5-00fe-ecc2-9ca90afcc704,allergy,environment,Wheezing,MILD
+d47bcc44-c0c5-00fe-ecc2-9ca90afcc704,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d47bcc44-c0c5-00fe-ecc2-9ca90afcc704,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d47bcc44-c0c5-00fe-ecc2-9ca90afcc704,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d47bcc44-c0c5-00fe-ecc2-9ca90afcc704,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d47bcc44-c0c5-00fe-ecc2-9ca90afcc704,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+35ba9af3-15f0-6b2f-518a-264a7e64a280,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+35ba9af3-15f0-6b2f-518a-264a7e64a280,allergy,food,Allergic angioedema (disorder),MODERATE
+c2372b9e-4278-1659-cb1c-04d7f74fa540,allergy,food,Eruption of skin (disorder),MODERATE
+a1c516a0-f169-df9f-1dc7-bcfde8714d99,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+6e471ce7-d0b4-728d-dc65-b4def25180e4,allergy,food,Anaphylaxis (disorder),SEVERE
+e086dfa2-4ae4-953a-04c4-70bd574d91ef,allergy,food,Eruption of skin (disorder),MODERATE
+dbdd7b07-796c-72dd-3e18-498e39a9c6c7,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+dbdd7b07-796c-72dd-3e18-498e39a9c6c7,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+dbdd7b07-796c-72dd-3e18-498e39a9c6c7,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+dbdd7b07-796c-72dd-3e18-498e39a9c6c7,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+dbdd7b07-796c-72dd-3e18-498e39a9c6c7,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+dbdd7b07-796c-72dd-3e18-498e39a9c6c7,allergy,food,Allergic angioedema (disorder),MODERATE
+dbdd7b07-796c-72dd-3e18-498e39a9c6c7,allergy,food,Eruption of skin (disorder),MILD
+dbdd7b07-796c-72dd-3e18-498e39a9c6c7,allergy,food,Eruption of skin (disorder),MILD
+d869c429-491e-01da-979e-b22653e0c25c,allergy,food,Allergic angioedema (disorder),MODERATE
+7ab548be-cbb6-c192-25ee-c8087bc58177,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+7ab548be-cbb6-c192-25ee-c8087bc58177,allergy,environment,Allergic skin rash,MILD
+7ab548be-cbb6-c192-25ee-c8087bc58177,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+7ab548be-cbb6-c192-25ee-c8087bc58177,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+7ab548be-cbb6-c192-25ee-c8087bc58177,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+7ab548be-cbb6-c192-25ee-c8087bc58177,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+7ab548be-cbb6-c192-25ee-c8087bc58177,allergy,food,Allergic angioedema (disorder),MODERATE
+4408c80f-d771-7e6e-50ae-60364d46c6e3,allergy,medication,Abdominal pain (finding),MODERATE
+4408c80f-d771-7e6e-50ae-60364d46c6e3,allergy,food,Anaphylaxis (disorder),SEVERE
+0f7686c7-f4a6-bd8b-ac32-91747232f777,allergy,food,Finding of vomiting (finding),MODERATE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,food,Allergic angioedema (disorder),MODERATE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,food,Anaphylaxis (disorder),SEVERE
+3f6d5e3b-d5dd-7a6d-b61b-911764ae5423,allergy,food,Allergic angioedema (disorder),MODERATE
+19aea3f6-85ba-9e9c-f881-4eba00392110,allergy,food,Allergic angioedema (disorder),MODERATE
+af783f35-f1e7-20a3-dc9a-e031cfc98145,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+af783f35-f1e7-20a3-dc9a-e031cfc98145,allergy,medication,Wheal (finding),MODERATE
+af783f35-f1e7-20a3-dc9a-e031cfc98145,allergy,food,Eruption of skin (disorder),MODERATE
+68b6e0d1-e00c-a18e-396d-48ceb8d86c42,allergy,environment,Rhinoconjunctivitis (disorder),MILD
+68b6e0d1-e00c-a18e-396d-48ceb8d86c42,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+68b6e0d1-e00c-a18e-396d-48ceb8d86c42,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+68b6e0d1-e00c-a18e-396d-48ceb8d86c42,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+68b6e0d1-e00c-a18e-396d-48ceb8d86c42,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+68b6e0d1-e00c-a18e-396d-48ceb8d86c42,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+68b6e0d1-e00c-a18e-396d-48ceb8d86c42,allergy,medication,Allergic angioedema (disorder),MILD
+68b6e0d1-e00c-a18e-396d-48ceb8d86c42,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+70168fe1-7e84-8b9e-5bb3-ace4cecc111c,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+70168fe1-7e84-8b9e-5bb3-ace4cecc111c,allergy,food,Allergic angioedema (disorder),MODERATE
+d4ab65a3-b0eb-ce00-318d-5872b977e088,allergy,medication,Abdominal pain (finding),MODERATE
+d4ab65a3-b0eb-ce00-318d-5872b977e088,allergy,medication,Eruption of skin (disorder),MILD
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,environment,Anaphylaxis (disorder),SEVERE
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,environment,Eruption of skin (disorder),MODERATE
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,environment,Cough (finding),MODERATE
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,medication,Abdominal pain (finding),MODERATE
+973fd2ba-feea-eba1-93c2-54ae7d95bdd6,allergy,food,Allergic angioedema (disorder),MODERATE
+4e96a81a-854b-47ca-67a1-9da86e2480a0,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+7abebbca-022d-cef5-188d-3f1804aeeac5,allergy,environment,Anaphylaxis (disorder),SEVERE
+7abebbca-022d-cef5-188d-3f1804aeeac5,allergy,environment,Sneezing,MILD
+7abebbca-022d-cef5-188d-3f1804aeeac5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+7abebbca-022d-cef5-188d-3f1804aeeac5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+7abebbca-022d-cef5-188d-3f1804aeeac5,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+7abebbca-022d-cef5-188d-3f1804aeeac5,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+7abebbca-022d-cef5-188d-3f1804aeeac5,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+7abebbca-022d-cef5-188d-3f1804aeeac5,allergy,food,Allergic angioedema (disorder),MODERATE
+241c9b65-8a00-6da0-d02a-cc8a32564599,allergy,environment,Wheal (finding),MILD
+241c9b65-8a00-6da0-d02a-cc8a32564599,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+241c9b65-8a00-6da0-d02a-cc8a32564599,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+241c9b65-8a00-6da0-d02a-cc8a32564599,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+241c9b65-8a00-6da0-d02a-cc8a32564599,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+241c9b65-8a00-6da0-d02a-cc8a32564599,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+241c9b65-8a00-6da0-d02a-cc8a32564599,allergy,food,Anaphylaxis (disorder),SEVERE
+241c9b65-8a00-6da0-d02a-cc8a32564599,allergy,food,Anaphylaxis (disorder),SEVERE
+32395bd2-271b-d7b1-7a2d-86cf158e0737,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+44ed650a-4b5a-4ec2-043f-bf4d4357f8a4,allergy,environment,Allergic angioedema (disorder),MODERATE
+44ed650a-4b5a-4ec2-043f-bf4d4357f8a4,allergy,environment,Eruption of skin (disorder),MODERATE
+44ed650a-4b5a-4ec2-043f-bf4d4357f8a4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+44ed650a-4b5a-4ec2-043f-bf4d4357f8a4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+44ed650a-4b5a-4ec2-043f-bf4d4357f8a4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+44ed650a-4b5a-4ec2-043f-bf4d4357f8a4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+44ed650a-4b5a-4ec2-043f-bf4d4357f8a4,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+44ed650a-4b5a-4ec2-043f-bf4d4357f8a4,allergy,food,Dyspnea (finding),MODERATE
+16cd70d1-5e49-cec2-0e38-953ab674764a,allergy,food,Wheal (finding),MODERATE
+e1f7591e-aa51-c545-cdb7-aa7dd1443ba5,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e1f7591e-aa51-c545-cdb7-aa7dd1443ba5,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+e1f7591e-aa51-c545-cdb7-aa7dd1443ba5,allergy,food,Wheal (finding),MODERATE
+562726ac-3a1b-c174-3b57-da7f36bec1d9,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+03d32efb-cb6b-fda2-bde7-66df3f3d74b2,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+03d32efb-cb6b-fda2-bde7-66df3f3d74b2,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+03d32efb-cb6b-fda2-bde7-66df3f3d74b2,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+750c84f2-8379-6da7-2faf-a163eb9deeaf,allergy,food,Eruption of skin (disorder),MODERATE
+f7c61401-542e-353e-a5a6-e15b8b5dba9c,allergy,environment,Eruption of skin (disorder),MODERATE
+f7c61401-542e-353e-a5a6-e15b8b5dba9c,allergy,medication,Itching (finding),MODERATE
+f7c61401-542e-353e-a5a6-e15b8b5dba9c,allergy,food,Anaphylaxis (disorder),SEVERE
+1bde76c8-2ebf-fe8f-bf14-a9c21a76bc9b,allergy,food,Eruption of skin (disorder),MODERATE
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,environment,Rhinoconjunctivitis (disorder),MILD
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,environment,Allergic skin rash,MILD
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,food,Finding of vomiting (finding),MODERATE
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,food,Dyspnea (finding),MODERATE
+c41f72bf-9ac4-6e03-2b20-749cd4b7128d,allergy,food,Anaphylaxis (disorder),SEVERE
+9dc07773-d9fa-a61d-50b7-3f838e8372df,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9dc07773-d9fa-a61d-50b7-3f838e8372df,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9dc07773-d9fa-a61d-50b7-3f838e8372df,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9dc07773-d9fa-a61d-50b7-3f838e8372df,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9dc07773-d9fa-a61d-50b7-3f838e8372df,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9dc07773-d9fa-a61d-50b7-3f838e8372df,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9dc07773-d9fa-a61d-50b7-3f838e8372df,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+9dc07773-d9fa-a61d-50b7-3f838e8372df,allergy,food,Anaphylaxis (disorder),SEVERE
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,environment,Allergic skin rash,MILD
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,medication,Eruption of skin (disorder),MODERATE
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,food,Wheal (finding),MODERATE
+6d823ad6-84d0-800f-cbab-4f490f8c3f18,allergy,food,Wheal (finding),MODERATE
+4f840e8d-07f7-897a-ea78-1246d840eb2b,allergy,environment,Sneezing,MILD
+4f840e8d-07f7-897a-ea78-1246d840eb2b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4f840e8d-07f7-897a-ea78-1246d840eb2b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4f840e8d-07f7-897a-ea78-1246d840eb2b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4f840e8d-07f7-897a-ea78-1246d840eb2b,allergy,food,Wheal (finding),MILD
+4f840e8d-07f7-897a-ea78-1246d840eb2b,allergy,food,Eruption of skin (disorder),MODERATE
+c44a692b-34bd-453c-141c-88956daaab8d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c44a692b-34bd-453c-141c-88956daaab8d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c44a692b-34bd-453c-141c-88956daaab8d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c44a692b-34bd-453c-141c-88956daaab8d,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+c44a692b-34bd-453c-141c-88956daaab8d,allergy,medication,Wheal (finding),MODERATE
+c44a692b-34bd-453c-141c-88956daaab8d,allergy,medication,Cough (finding),MODERATE
+c44a692b-34bd-453c-141c-88956daaab8d,allergy,food,Diarrhea (finding),MILD
+fd63e39e-6678-34fc-1ab0-1472ebfe81e9,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+fd63e39e-6678-34fc-1ab0-1472ebfe81e9,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+d3281bb3-bde0-b23e-56fd-67bf6b0b6114,allergy,food,Anaphylaxis (disorder),SEVERE
+ebcce05d-732e-cd06-c77c-b3f23cf2b0fd,allergy,environment,Dyspnea (finding),MODERATE
+ebcce05d-732e-cd06-c77c-b3f23cf2b0fd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ebcce05d-732e-cd06-c77c-b3f23cf2b0fd,allergy,environment,Allergic skin rash,MILD
+ebcce05d-732e-cd06-c77c-b3f23cf2b0fd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ebcce05d-732e-cd06-c77c-b3f23cf2b0fd,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ebcce05d-732e-cd06-c77c-b3f23cf2b0fd,allergy,food,Anaphylaxis (disorder),SEVERE
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,environment,Dyspnea (finding),MODERATE
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,environment,Allergic skin rash,MILD
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+3ac7cbd3-8914-5b08-8fc3-14530c359e0c,allergy,food,Anaphylaxis (disorder),SEVERE
+0c784180-601c-9bbf-b813-159011277abb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0c784180-601c-9bbf-b813-159011277abb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0c784180-601c-9bbf-b813-159011277abb,allergy,environment,Dyspnea (finding),MILD
+0c784180-601c-9bbf-b813-159011277abb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0c784180-601c-9bbf-b813-159011277abb,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0c784180-601c-9bbf-b813-159011277abb,allergy,medication,Eruption of skin (disorder),MILD
+0c784180-601c-9bbf-b813-159011277abb,allergy,food,Eruption of skin (disorder),MODERATE
+0c784180-601c-9bbf-b813-159011277abb,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,environment,Rhinoconjunctivitis (disorder),MILD
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,environment,Wheezing,MILD
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,food,Diarrhea (finding),MILD
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,food,Finding of vomiting (finding),MODERATE
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,food,Eruption of skin (disorder),MODERATE
+4eec62e6-d653-d99c-2a92-19b569e298b3,allergy,food,Allergic angioedema (disorder),MODERATE
+0d8e800b-d137-edf0-6168-145b56c5458f,allergy,medication,Abdominal pain (finding),MODERATE
+1f31fa5b-8d2f-ff42-8b11-e66652df7e94,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1f31fa5b-8d2f-ff42-8b11-e66652df7e94,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1f31fa5b-8d2f-ff42-8b11-e66652df7e94,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1f31fa5b-8d2f-ff42-8b11-e66652df7e94,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1f31fa5b-8d2f-ff42-8b11-e66652df7e94,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+1f31fa5b-8d2f-ff42-8b11-e66652df7e94,allergy,medication,Wheal (finding),MILD
+1f31fa5b-8d2f-ff42-8b11-e66652df7e94,allergy,food,Wheal (finding),MODERATE
+1f31fa5b-8d2f-ff42-8b11-e66652df7e94,allergy,food,Anaphylaxis (disorder),SEVERE
+e6abd84f-0bd2-d909-eaf3-85df700594d1,allergy,food,Anaphylaxis (disorder),SEVERE
+e0c9a833-4799-f272-44de-4260f6477540,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e0c9a833-4799-f272-44de-4260f6477540,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e0c9a833-4799-f272-44de-4260f6477540,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e0c9a833-4799-f272-44de-4260f6477540,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+e0c9a833-4799-f272-44de-4260f6477540,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+e0c9a833-4799-f272-44de-4260f6477540,allergy,food,Dyspnea (finding),MODERATE
+e0c9a833-4799-f272-44de-4260f6477540,allergy,food,Anaphylaxis (disorder),SEVERE
+9a2ccd2e-9d30-8d61-264b-4ba1d32adf32,allergy,environment,Rhinoconjunctivitis (disorder),MILD
+9a2ccd2e-9d30-8d61-264b-4ba1d32adf32,allergy,environment,Nose running,MILD
+9a2ccd2e-9d30-8d61-264b-4ba1d32adf32,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9a2ccd2e-9d30-8d61-264b-4ba1d32adf32,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9a2ccd2e-9d30-8d61-264b-4ba1d32adf32,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9a2ccd2e-9d30-8d61-264b-4ba1d32adf32,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+9a2ccd2e-9d30-8d61-264b-4ba1d32adf32,allergy,food,Dyspnea (finding),MODERATE
+9a2ccd2e-9d30-8d61-264b-4ba1d32adf32,allergy,food,Anaphylaxis (disorder),SEVERE
+db1d3923-e539-63e7-c573-11158515ca6a,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+db1d3923-e539-63e7-c573-11158515ca6a,allergy,food,Anaphylaxis (disorder),SEVERE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,environment,Sneezing,MILD
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,intolerance,medication,Rhinoconjunctivitis (disorder),MODERATE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,medication,Abdominal pain (finding),MODERATE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+6ea363a0-0a00-f1ec-4930-a175acefd1dc,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,environment,Anaphylaxis (disorder),SEVERE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,food,Wheal (finding),MILD
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,food,Finding of vomiting (finding),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,food,Eruption of skin (disorder),MODERATE
+577fe0cd-a3e2-d3ea-854b-7178b4626e5e,allergy,food,Cough (finding),MODERATE
+f7248ac4-903e-ccd2-34bd-bf4fba455c8e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+f7248ac4-903e-ccd2-34bd-bf4fba455c8e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+f7248ac4-903e-ccd2-34bd-bf4fba455c8e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+f7248ac4-903e-ccd2-34bd-bf4fba455c8e,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+f7248ac4-903e-ccd2-34bd-bf4fba455c8e,allergy,medication,Anaphylaxis (disorder),SEVERE
+f7248ac4-903e-ccd2-34bd-bf4fba455c8e,allergy,food,Wheal (finding),MODERATE
+efbbd302-3a75-00b3-92d8-8a417fa83559,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+efbbd302-3a75-00b3-92d8-8a417fa83559,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+a2accc5c-df85-80e8-066e-0a988e06bb28,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2accc5c-df85-80e8-066e-0a988e06bb28,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2accc5c-df85-80e8-066e-0a988e06bb28,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2accc5c-df85-80e8-066e-0a988e06bb28,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2accc5c-df85-80e8-066e-0a988e06bb28,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2accc5c-df85-80e8-066e-0a988e06bb28,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a2accc5c-df85-80e8-066e-0a988e06bb28,allergy,food,Anaphylaxis (disorder),SEVERE
+bdbbd982-34d7-711c-a781-948d725985a8,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bdbbd982-34d7-711c-a781-948d725985a8,allergy,environment,Sneezing,MILD
+bdbbd982-34d7-711c-a781-948d725985a8,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bdbbd982-34d7-711c-a781-948d725985a8,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bdbbd982-34d7-711c-a781-948d725985a8,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bdbbd982-34d7-711c-a781-948d725985a8,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+bdbbd982-34d7-711c-a781-948d725985a8,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+bdbbd982-34d7-711c-a781-948d725985a8,allergy,food,Anaphylaxis (disorder),SEVERE
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,environment,Eruption of skin (disorder),MILD
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,food,Finding of vomiting (finding),MODERATE
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,food,Rhinoconjunctivitis (disorder),MODERATE
+a4aef18e-8742-1954-5877-fdef2a44e1f1,allergy,food,Anaphylaxis (disorder),SEVERE
+ab551dfa-66b1-5cce-a444-92cfae339df2,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+ab551dfa-66b1-5cce-a444-92cfae339df2,allergy,food,Allergic angioedema (disorder),MODERATE
+b9147e23-8360-eadc-9f03-03cb65d0080b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b9147e23-8360-eadc-9f03-03cb65d0080b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b9147e23-8360-eadc-9f03-03cb65d0080b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b9147e23-8360-eadc-9f03-03cb65d0080b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+b9147e23-8360-eadc-9f03-03cb65d0080b,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+b9147e23-8360-eadc-9f03-03cb65d0080b,allergy,food,Anaphylaxis (disorder),SEVERE
+d67913dd-91ae-da54-7d8c-fee2bb5d6bf4,allergy,environment,Allergic skin rash,MILD
+d67913dd-91ae-da54-7d8c-fee2bb5d6bf4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d67913dd-91ae-da54-7d8c-fee2bb5d6bf4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d67913dd-91ae-da54-7d8c-fee2bb5d6bf4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d67913dd-91ae-da54-7d8c-fee2bb5d6bf4,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+d67913dd-91ae-da54-7d8c-fee2bb5d6bf4,allergy,medication,Abdominal pain (finding),MODERATE
+d67913dd-91ae-da54-7d8c-fee2bb5d6bf4,allergy,food,Wheal (finding),MODERATE
+afb6e71d-9e92-7da4-bff6-8a917911dd55,allergy,food,Anaphylaxis (disorder),SEVERE
+3e67f71c-797c-68b7-81b1-0a61bdbdb73b,allergy,environment,Nose running,MILD
+3e67f71c-797c-68b7-81b1-0a61bdbdb73b,allergy,food,Anaphylaxis (disorder),SEVERE
+30625211-dfcc-545d-f381-64e05253eccc,allergy,food,Anaphylaxis (disorder),SEVERE
+fbb015e2-69ed-342c-3755-628abf360d74,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbb015e2-69ed-342c-3755-628abf360d74,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbb015e2-69ed-342c-3755-628abf360d74,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbb015e2-69ed-342c-3755-628abf360d74,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbb015e2-69ed-342c-3755-628abf360d74,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+fbb015e2-69ed-342c-3755-628abf360d74,allergy,food,Wheal (finding),MODERATE
+fbb015e2-69ed-342c-3755-628abf360d74,allergy,food,Diarrhea (finding),MILD
+fbb015e2-69ed-342c-3755-628abf360d74,allergy,food,Allergic angioedema (disorder),MODERATE
+2132671b-f3e3-da10-e172-44a3e7a63b9c,allergy,environment,Eruption of skin (disorder),MODERATE
+2132671b-f3e3-da10-e172-44a3e7a63b9c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2132671b-f3e3-da10-e172-44a3e7a63b9c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2132671b-f3e3-da10-e172-44a3e7a63b9c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2132671b-f3e3-da10-e172-44a3e7a63b9c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2132671b-f3e3-da10-e172-44a3e7a63b9c,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+2132671b-f3e3-da10-e172-44a3e7a63b9c,allergy,food,Wheal (finding),MODERATE
+2132671b-f3e3-da10-e172-44a3e7a63b9c,allergy,food,Allergic angioedema (disorder),MODERATE
+7afed331-8e14-eb83-ce25-7c5bc798727a,intolerance,medication,Cough (finding),MODERATE
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,environment,Nose running,MILD
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE
+0ba2ce22-533f-dde3-fe1f-dfe813cd2b00,allergy,food,Anaphylaxis (disorder),SEVERE
+856b0887-e9d8-7429-736e-fc9b8e177f7b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+856b0887-e9d8-7429-736e-fc9b8e177f7b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+856b0887-e9d8-7429-736e-fc9b8e177f7b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+856b0887-e9d8-7429-736e-fc9b8e177f7b,allergy,environment,Rhinoconjunctivitis (disorder),MODERATE
+856b0887-e9d8-7429-736e-fc9b8e177f7b,allergy,food,Anaphylaxis (disorder),SEVERE
