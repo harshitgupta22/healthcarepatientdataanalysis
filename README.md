@@ -41,7 +41,7 @@ During the course of this project, we faced several challenges:
 We've developed an interactive dashboard using PowerBI to present and explore the key discoveries and insights derived from our analysis. 
 The dashboard offers a user-friendly interface for navigating through the data, visualizing trends in disease diagnosis, and comprehending the treatment outcomes for various diseases. 
 Feel free to explore the dashboard for a more engaging and interactive experience.
-- Dashboard Link :
+- Dashboard Link :https://github.com/harshitgupta22/healthcarepatientdataanalysis/blob/main/health_care_project_dashboard.pbix
 - ![dash](https://github.com/harshitgupta22/healthcarepatientdataanalysis/assets/166328770/ea41a2f4-8628-431e-b489-012c48b9b646)
 
 ## Insights
